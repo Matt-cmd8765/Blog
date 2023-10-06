@@ -1,11 +1,8 @@
-# README
+# Objective
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is the blog app tutorial from the rails guide: https://guides.rubyonrails.org/getting_started.html#showing-a-list-of-articles. Learning how to navigate and link up everything in rails. 
 
-Things you may want to cover:
-
-* Ruby version
+* Ruby version: 7.0.8
 
 * System dependencies
 
